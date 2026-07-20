@@ -1,0 +1,52 @@
+p{
+	font-family: 'Verdana' ;
+	font-size: 16px;
+	color: #4D4025;
+
+}
+
+.Navigation{
+	font-family: 'Verdana' ;
+	font-size: 16px;
+	font-style: italic;
+	flex-direction: column;
+	flex-basis: auto;
+	top: 200px;
+	left: 170px;
+}
+
+h1{
+	font-family: 'Verdana' ;
+	font-size: 32px;	
+	font-style: bold;
+	color: #A8822F;
+	position: absolute;
+	flex-basis: auto;
+	top: 200px;
+	left: 170px;
+}
+
+h4{
+	font-family: 'Verdana' ;
+	font-style: bold;
+	color: #A8822F;
+}
+
+a{
+	font-family: 'Verdana' ;
+	font-size: 11px;
+	font-style: italic;
+}
+
+footer{
+	left: 170px;
+	bottom: 80px;
+}
+
+.Architektur{
+	font-family: 'Verdana' ;
+	font-size: 16px;
+	color: #4D4025;
+	box-sizing: content-box;
+	padding: 80px;
+}
